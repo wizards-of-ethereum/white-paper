@@ -11,12 +11,7 @@ As human beings, we love to collect curious stuff that makes us feel good or spe
 
 Blockchain technology empowers us to create unique digital assets that can be purchased and stored in distributed systems.
 
-Ethereum Blockchain gives us the ERC721 tokens. ERC721 tokens are useful in situations like real estate or collectibles, where some items are valued more than others. 
-
-Due to their usefulness, rarity or uniqueness, the ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.
-
-## What is Wizards Of Ethereum?
-Wizards Of Ethereum is an effort to bring three things together, blockchain technology, beautiful art, and great stories. And in the middle, rewarding artists for their work.
+Wizards Of Ehtereum is an effort to bring three things together, blockchain technology, beautiful art, and great stories. And in the middle, rewarding artists for their work.
 
 Wizards Of Ethereum will be a set of universe expansions, starting with the Genesis. Each universe expansion will have a unique thematic that will be a point of departure for artists to start creating the universe story.
 
@@ -29,5 +24,10 @@ The legends created as the result of the votation will be sent to the artist acc
 When a Legend is purchased, the amount paid is distributed between the artist and the stakeholders. 
 
 The artist keeps the eighty percent of the value. The other twenty percent is distributed among the stakeholders.
+
+## Technical overview
+Ethereum Blockchain gives us the ERC721 tokens. ERC721 tokens are useful in situations like real estate or collectibles, where some items are valued more than others. 
+
+Due to their usefulness, rarity or uniqueness, the ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.
 
 ## Governance
