@@ -16,7 +16,7 @@ Ethereum Blockchain gives us the ERC721 tokens. ERC721 tokens are useful in situ
 Due to their usefulness, rarity or uniqueness, the ERC721 is a standard for representing ownership of non-fungible tokens, that is, where each token is unique.
 
 ## What is Wizards Of Ethereum?
-Wizards Of Ehtereum is an effort to bring three things together, blockchain technology, beautiful art, and great stories. And in the middle, rewarding artists for their work.
+Wizards Of Ethereum is an effort to bring three things together, blockchain technology, beautiful art, and great stories. And in the middle, rewarding artists for their work.
 
 Wizards Of Ethereum will be a set of universe expansions, starting with the Genesis. Each universe expansion will have a unique thematic that will be a point of departure for artists to start creating the universe story.
 
