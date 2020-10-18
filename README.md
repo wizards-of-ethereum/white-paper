@@ -3,7 +3,7 @@
 ## Abstract
 Blockchain technology has applications in a variety of fields, mainly in finance, but there are also other fields where can be a game-changer.
 
-Today, we live in a hyper-connected world where we can enjoy the work of many visual artists almost for free, from their Instagram profiles, Blogs, etc. And most of these artists do not make any profit from their work despite their talent.
+Today, we live in a hyper-connected world where we can enjoy the work of many visual artists almost for free, on Instagram, Blogs, etc. And most of these artists do not make any profit from their work despite their talent.
 
 I am a big fan of sci-fi art, games, and collectibles such as Magic The Gathering, and I know from experience that there is a market for collectibles, from baseball cards to trading card games, postal stamps, etc.
 
