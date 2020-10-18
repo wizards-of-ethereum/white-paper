@@ -15,15 +15,19 @@ Wizards Of Ehtereum is an effort to bring three things together, blockchain tech
 
 Wizards Of Ethereum will be a set of universe expansions, starting with the Genesis. Each universe expansion will have a unique thematic that will be a point of departure for artists to start creating the universe story.
 
+Each universe expansion is composed of Legends. The Legends are pieces of art selected through a votation.
+
+A Legend must have a name, an image or art, and a story.
+
 Before an expansion gets launched, there will be an open convocation for artists to submit their work with guidelines of the expansion thematic.
 
 Once the convocation is closed, then the stakeholders of the WOET (Wizards Of Ethereum Token) will vote on the artists' pieces to decide which will be mint as an NFT (Non-Fungible Token) or, in the context of Wizards Of Ethereum, Legends.
 
 The legends created as the result of the votation will be sent to the artist account. The value of the Legends is assigned algorithmically (more on this at the technical overview).
 
-When a Legend is purchased, the amount paid is distributed between the artist and the stakeholders. 
+When a Legend is purchased, the amount paid distributes between the artist and the stakeholders. 
 
-The artist keeps the eighty percent of the value. The other twenty percent is distributed among the stakeholders.
+The artist keeps the eighty percent of the value. The other twenty percent distributes among the stakeholders.
 
 ## Technical overview
 Ethereum Blockchain gives us the ERC721 tokens. ERC721 tokens are useful in situations like real estate or collectibles, where some items are valued more than others. 
